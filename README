@@ -1,8 +1,15 @@
-## Seonah Lee, Jueun Heo, Katherine R. Dearstyne"Can LLMs Update API Documentation?"_41st International Conference on Software Maintenance and Evolution, 2025_
+# AutoAPI-DocByLLM
+
+## Paper Information
+
+**Authors:** Seonah Lee, Jueun Heo, Katherine R. Dearstyne  
+**Title:** "Can LLMs Update API Documentation?"  
+**Conference:** _41st International Conference on Software Maintenance and Evolution, 2025_
 
 ---
 
 ## Abstract
+
 This paper investigates the capability of large language models (LLMs) to autonomously update API documentation.  
 Given that API documentation often becomes outdated and maintaining it manually is resource-intensive,  
 the authors propose a method leveraging LLMs to identify inconsistencies, outdated endpoints,  
@@ -14,9 +21,10 @@ The approach incorporates:
 3. Validating the generated content through automated checks and human oversight.  
 
 Experimental evaluation across real-world software projects shows that the method improved documentation accuracy and reduced maintenance effort compared to manual updates.  
-The results suggest that LLM-based documentation updating can enhance documentation quality and efficiency in software development workflows.  
+The results suggest that LLM-based documentation updating can enhance documentation quality and efficiency in software development workflows.
 
 ---
 
-**Paper:** Can LLMs Update API Documentation?  
-**Link:** [https://zenodo.org/records/15022935]
+## Paper Link
+
+[Access the paper on Zenodo](https://zenodo.org/records/15022935)

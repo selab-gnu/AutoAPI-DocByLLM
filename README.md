@@ -6,7 +6,6 @@
 **Title:** "Can LLMs Update API Documentation?"  
 **Conference:** _41st International Conference on Software Maintenance and Evolution, 2025_
 
----
 
 ## Abstract
 
@@ -23,7 +22,6 @@ The approach incorporates:
 Experimental evaluation across real-world software projects shows that the method improved documentation accuracy and reduced maintenance effort compared to manual updates.  
 The results suggest that LLM-based documentation updating can enhance documentation quality and efficiency in software development workflows.
 
----
 
 ## Paper Link
 
